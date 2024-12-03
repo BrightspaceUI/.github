@@ -6,4 +6,4 @@ A collection of tools and components for building a highly accessible and intern
 
 At [D2L](https://www.d2l.com) we're passionate about creating best-in-class, easy-to-use, and accessible experiences for learning. To get started, check out the [@brightspace-ui/core](https://github.com/BrightspaceUI/core) repo where you can find the web components that form the foundation of our Daylight design system.
 
-Components are all tested for quality and accessibility including ([axe tests](https://www.deque.com/axe/devtools/)) as well as [Visual Difference tests](https://github.com/BrightspaceUI/testing).
+Components are all tested for quality and accessibility including [axe tests](https://www.deque.com/axe/devtools/) and [Visual Difference tests](https://github.com/BrightspaceUI/testing).
